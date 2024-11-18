@@ -1,9 +1,7 @@
-
-
- **Name**: Zixin Wei
- **Email**: [z5wei@ucsd.edu](mailto:z5wei@ucsd.edu)
- **Section**: B16
- **Mentor**: Nolan, Sheffield
+- **Name**: Zixin Wei
+- **Email**: [z5wei@ucsd.edu](mailto:z5wei@ucsd.edu)
+- **Section**: B16
+- **Mentor**: Nolan, Sheffield
 
 ## Project Brainstorming Prompts
 
